@@ -2,6 +2,7 @@
 [![Nuget](https://img.shields.io/nuget/v/Ardalis.ApiEndpoints)](https://www.nuget.org/packages/Ardalis.ApiEndpoints/)
 [![Nuget](https://img.shields.io/nuget/dt/Ardalis.ApiEndpoints)](https://www.nuget.org/packages/Ardalis.ApiEndpoints/)
 
+![](https://vistr.dev/badge?repo=emonarafat.ApiEndpoints)
 # ASP.NET Core API Endpoints
 
 A project for supporting API Endpoints in ASP.NET Core web applications.
